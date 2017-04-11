@@ -1,8 +1,8 @@
-#Genius Android
+# Genius Android
 
-An android game app to play the old genius game.
+An android game app to play the old genius game using API21 Lollipop 5.0.
 
-##Developer notes:
+## Developer notes:
 
 - First mobile app
 - Developed for learning
