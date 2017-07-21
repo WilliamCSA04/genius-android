@@ -11,7 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.02"
-        android:text="Genius Android" />
+        android:text="@string/title"
+        tools:text="Genius Android" />
 
     <Space
         android:layout_width="match_parent"
@@ -24,6 +25,8 @@
         android:layout_height="wrap_content"
         android:background="@color/colorPrimaryDark"
         android:backgroundTint="@color/colorPrimary"
-        android:text="Start"
+        android:text="@string/start_button"
+        android:textColor="@android:color/background_light"
+        tools:text="Start"
         tools:textColor="@android:color/white" />
 </LinearLayout>
