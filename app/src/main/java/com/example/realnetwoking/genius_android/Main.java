@@ -30,10 +30,8 @@ public class Main extends Activity {
 
             @Override
             public void onClick(View arg0) {
-                AlertDialog alert = new AlertDialog.Builder(Main.this).create();
-                alert.setTitle("Not implemented yet");
-                alert.setMessage("The game activity is being developed");
-                alert.show();
+                startActivity(new Intent(Main.this, Game.class));
+
             }
 
         });
