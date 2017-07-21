@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Genius-android</string>
+    <string name="title" translatable="false">Genius Android</string>
+    <string name="start_button">START</string>
 </resources>
